@@ -1,0 +1,69 @@
+{
+  "rw1": {
+    "name": "Rider Waite",
+    "url": "https://commons.wikimedia.org/wiki/Category:Rider-Waite_tarot_deck_(Roses_%26_Lilies)",
+    "path": "rw",
+    "majorArcanaOnly": "false",
+    "files": {
+    }
+  },
+  "sb": {
+    "name": "Sola Busca",
+    "url": "https://commons.wikimedia.org/wiki/Category:Sola-Busca_tarot_deck",
+    "path": "sb",
+    "majorArcanaOnly": "false",
+    "files": {
+    }
+  },
+  "rw2": {
+    "name": "Rider Waite - Illustrated Keys to the Tarot",
+    "url": "https://commons.wikimedia.org/wiki/Category:The_Illustrated_Key_to_the_Tarot_(set_of_cards)",
+    "path": "rw2",
+    "majorArcanaOnly": "false",
+    "fileNames": {
+    }
+  },
+  "wh": {
+    "name": "W.T. Horton",
+    "url": "https://commons.wikimedia.org/wiki/Category:Tarot_cards_-_drawings_by_W.T._Horton",
+    "path": "wt",
+    "majorArcanaOnly": "true",
+    "fileNames": {
+    }
+  },
+  "et": {
+    "name": "Egyptian tarot (Falconnier)",
+    "url": "",
+    "path": "/et/",
+    "majorArcanaOnly": "true",
+    "fileNames": {
+    }
+  },
+  "pm": {
+    "name": "Piedmontese",
+    "url": "https://commons.wikimedia.org/wiki/Category:Piedmontese_tarot_deck_-_Solesio_-_1865",
+    "path": "/pm/",
+    "majorArcanaOnly": "false",
+    "fileNames": {
+    }
+  },
+  "ow": {
+    "name": "Oswald Wirth",
+    "url": "https://commons.wikimedia.org/wiki/Category:Oswald_Wirth_tarot_deck",
+    "path": "/rw/",
+    "majorArcanaOnly": "false",
+    "fileNames": {
+    }
+  },
+  "bota": {
+    "name": "B.O.T.A.",
+    "url": {
+      "major": "https://waitesmith.org/index.php/books/b-o-t-a-tarot-decks-and-instruction/",
+      "minor": "https://archive.org/details/botatarot-meta"
+    },
+    "path": "/bota/",
+    "majorArcanaOnly": "false",
+    "fileNames": {
+    }
+  }
+}
