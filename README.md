@@ -19,9 +19,11 @@ this is where lain and I store our code and learn to program
 
 [Eloquent Javascript (Marijn Haverbeke, interactive book)](https://eloquentjavascript.net/)
 
-[Beginner Javascript (Wes Bos, videos and projects)](https://beginnerjavascript.com/)
+[#Javascript30 (Wes Bos, videos and projects)](https://javascript30.com/)
 
 [Getting started with Git (github.com)](https://docs.github.com/en/get-started)
+
+[Mozilla Javascript basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 
 [You Don't Know JS, (@getify/Kyle Simpson, book-in-progress))](https://github.com/getify/You-Dont-Know-JS)
 
